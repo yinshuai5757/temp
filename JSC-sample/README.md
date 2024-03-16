@@ -4,7 +4,7 @@
 mysql & myllm container を起動
 ```bash
 cd JSC-sample
-docker compose up -d
+docker compose up
 ```
 
 ### ターミナル WSL上でのDB中身接続
